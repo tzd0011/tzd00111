@@ -17,7 +17,7 @@ jobs:
     steps:
       - name: tzd0011
         uses: tzd0021@gmail.com
-tzd0021@gmail.com
+
       - name: tzd0011
         run: |
           git config --local user.email "justjavac@gmail.com"
